@@ -1,1 +1,1 @@
-print("hello world!")
+# 写入文件 hello world
